@@ -1,0 +1,5 @@
+men 2
+ken 1
+likey 1
+empty 0
+empty 0
