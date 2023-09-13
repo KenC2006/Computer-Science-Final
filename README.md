@@ -1,2 +1,2 @@
-# Game2023
-Game2023
+# Computer Science Final Game
+LowerTale
